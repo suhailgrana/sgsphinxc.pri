@@ -194,7 +194,7 @@ Text.TextXAlignment = Enum.TextXAlignment.Left
 Background.Name = "Background"
 Background.Parent = ScreenLabel
 Background.BackgroundColor3 = C3(23, 23, 23)
-Background.BorderColor3 = C3(20, 20, 20)
+Background.BorderColor3 = C3(65, 105, 225)
 Background.Size = UDim2.new(0.534260333, 0, 1, 0)
 
 local function ZWWNPAB_fake_script() -- ScreenLabel.LocalScript 
@@ -222,9 +222,9 @@ SpectatorViewer.Parent = game.CoreGui
 
 Main.Name = "Main"
 Main.Parent = SpectatorViewer
-Main.BackgroundColor3 = C3(23, 23, 23)
+Main.BackgroundColor3 = C3(220, 20, 56)
 Main.BackgroundTransparency = 1.000
-Main.BorderColor3 = C3(20, 20, 20)
+Main.BorderColor3 = C3(65, 105, 225)
 Main.Position = UDim2.new(0.00779589033, 0, 0.400428265, 0)
 Main.Size = UDim2.new(0, 153, 0, 20)
 Main.Visible = true
